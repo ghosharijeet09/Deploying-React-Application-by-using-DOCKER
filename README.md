@@ -80,13 +80,13 @@
 > > ![image](https://github.com/user-attachments/assets/c0d62696-c447-402e-97db-6f75b3e1dcce)
 
 10. Open the application in your browser at the address
-> > ![image](https://github.com/user-attachments/assets/7e926ce9-59f1-459a-aae7-9f1fa191edec)
+> > ![image](https://github.com/user-attachments/assets/55d33d39-0675-4f99-b70f-655067a52900)
 
 11. Enable port forwarding in advanced settings in the VM to open the app in the
  host machine.
 > > ![image](https://github.com/user-attachments/assets/7dc18f85-199d-4f8d-b52e-77f3a5b341f7)
 
-> > ![image](https://github.com/user-attachments/assets/a40c5dda-6459-4495-8be9-958289992255)
+> > ![image](https://github.com/user-attachments/assets/807e4fe2-68e2-4937-9403-754e4249ca11)
 
 **Observations:**
  It is seen that VirtualBox and Linux VM are set up, Node.js and npm work, the
